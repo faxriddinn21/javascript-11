@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sarlovha{
+    padding-top: 250px;
+    text-align: center;
+    font-size: 80px;
+    color: red;
+    background: yellow;
+    height: 800px;
+}
